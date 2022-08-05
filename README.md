@@ -8,7 +8,7 @@ lyric_cleaning :
 用简单的正则表达式以及肉眼观察到的特征，过滤无用信息。代码只适合这个项目，并不具有普遍性。
 
 lyric_analysis:
-具有以下功能：
+具有以下功能
 1. 查询歌词的字数
 2. 获取所有歌曲的词频
 3. 获取原创歌曲的词频
@@ -18,7 +18,7 @@ lyric_analysis:
 7. 制作词云
 
 original_table.xlsx :
-由微博@AS烨子不改了! 提供
+由微博@AS烨子不改了 提供
 
 qqmusic.xlsx :
 在qq音乐上线的歌曲
